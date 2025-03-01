@@ -7,5 +7,5 @@ College: City College Of Angeles
 High School: Eastern Porac National High School
 Elementary: Tabu Ilog Negros Occidental
 ## My Projects
-Midterm Lab Task 1: 
-/n Midterm Lab Task 2:
+Midterm Lab Task 1:  
+Midterm Lab Task 2:
