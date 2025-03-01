@@ -8,4 +8,4 @@ High School: Eastern Porac National High School
 Elementary: Tabu Ilog Negros Occidental
 ## My Projects
 Midterm Lab Task 1: 
-Midterm Lab Task 2:
+/n Midterm Lab Task 2:
