@@ -13,4 +13,5 @@ Elementary: Tabu Ilog Negros Occidental
 
 ## My Projects
 Midterm Lab Task 1:
+
 Midterm Lab Task 2:
