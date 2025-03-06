@@ -2,7 +2,7 @@
 This Portfolio Contain all of my documents in EDM
 
 ## About Me
-I am John Paul Recapor a current student of City College Of Angeles with a course of Bachelor of Science in Information Systems. And also currently working in Jollibee Cutcut Frienship :) 
+I am John Paul Recapor  currently studying in City College Of Angeles with a course of Bachelor of Science in Information System. And also currently working in Jollibee Cutcut Frienship :) 
 
 ## Education
 College: City College Of Angeles
