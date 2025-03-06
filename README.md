@@ -12,7 +12,6 @@ High School: Eastern Porac National High School
 Elementary: Tabu Ilog Negros Occidental 
 
 ## My Projects
-Midterm Lab Task 1:   ![Raw Data](https://github.com/user-attachments/assets/cad78b75-3709-41c4-aa44-88a3abf34313)
-
+Midterm Lab Task 1:
 
 Midterm Lab Task 2:
