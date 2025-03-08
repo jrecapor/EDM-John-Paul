@@ -12,6 +12,6 @@ High School: Eastern Porac National High School
 Elementary: Tabu Ilog Negros Occidental 
 
 ## My Projects
-Midterm Lab Task 1:https://github.com/jrecapor/EDM-John-Paul/tree/5a5e278914f5ac05cdc05db6478361ff3c14de41/Midterm
+Midterm Lab Task 1: Data Cleaning and Preparation/main/Midterm
 
 Midterm Lab Task 2:
