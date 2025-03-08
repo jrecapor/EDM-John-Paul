@@ -41,6 +41,18 @@ else [Location]),
     #"Split Column by Delimiter1" = Table.SplitColumn(#"Filtered Rows", "Company Name", Splitter.SplitTextByDelimiter("#(lf)", QuoteStyle.Csv), {"Company Name.1", "Company Name.2"}),
     #"Changed Type3" = Table.TransformColumnTypes(#"Split Column by Delimiter1",{{"Company Name.1", type text}, {"Company Name.2", type number}}),
     #"Removed Columns1" = Table.RemoveColumns(#"Changed Type3",{"Company Name.2"}),
-    #"Renamed Columns6" = Table.RenameColumns(#"Removed Columns1",{{"Company Name.1", "Company Name"}, {"Abbreviations", "State Abbreviations"}, {"State", "Location"}})
+    #"Renamed Columns6" = Table.RenameColumns(#"Removed Columns1",{{"Company Name.1", "Company Name"}, {"Abbreviations", "State Abbreviations"}, {"State", "Location"}}),
+    #"Filtered Rows1" = Table.SelectRows(#"Renamed Columns6", each true),
+    #"Replaced Value1" = Table.ReplaceValue(#"Filtered Rows1","101","165",Replacer.ReplaceText,{"Max Sal"}),
+    #"Filtered Rows2" = Table.SelectRows(#"Replaced Value1", each true),
+    #"Removed Columns2" = Table.RemoveColumns(#"Filtered Rows2",{"Max Sal"}),
+    #"Inserted Text Between Delimiters2" = Table.AddColumn(#"Removed Columns2", "Text Between Delimiters", each Text.BetweenDelimiters([Salary Estimate], "$", "K", 1, 0), type text),
+    #"Renamed Columns7" = Table.RenameColumns(#"Inserted Text Between Delimiters2",{{"Text Between Delimiters", "Max Sal"}}),
+    #"Removed Columns3" = Table.RemoveColumns(#"Renamed Columns7",{"Min Company Size"}),
+    #"Inserted Text Before Delimiter" = Table.AddColumn(#"Removed Columns3", "Text Before Delimiter", each Text.BeforeDelimiter([Size], " "), type text),
+    #"Renamed Columns8" = Table.RenameColumns(#"Inserted Text Before Delimiter",{{"Text Before Delimiter", "Min Company Size"}}),
+    #"Removed Columns4" = Table.RemoveColumns(#"Renamed Columns8",{"Max Company Size"}),
+    #"Inserted Text Between Delimiters3" = Table.AddColumn(#"Removed Columns4", "Text Between Delimiters", each Text.BetweenDelimiters([Size], " ", " ", 1, 0), type text),
+    #"Renamed Columns9" = Table.RenameColumns(#"Inserted Text Between Delimiters3",{{"Text Between Delimiters", "Max Company Size"}})
 in
-    #"Renamed Columns6"
+    #"Renamed Columns9"
