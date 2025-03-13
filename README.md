@@ -6,10 +6,8 @@ I am John Paul Recapor  currently studying in City College Of Angeles with a cou
 
 ## Education
 College: City College Of Angeles
-
 High School: Eastern Porac National High School  
-
-Elementary: Tabu Ilog Negros Occidental 
+Elementary: Manibaug Libutad Elementary School 
 
 ## My Projects
 Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm)
