@@ -89,3 +89,36 @@ This portfolio demonstrates the process of data cleaning and preparation using P
 6. Click Merge → Click OK  
 7. Rename the merged column as "State Full Name"  
 8. Remove nulls and blanks
+
+### Step 12: Group by State  
+1. Create a reference of raw data → Rename it as "Sal By State ref"  
+2. Select only State Full Name, Min Salary, and Max Salary columns  
+3. Change Min and Max Salary type to currency  
+4. Multiply values by 1000  
+5. Group rows by State Full Name and get the average for Min and Max Salary  
+
+
+
+### Step 13: View Query Dependencies  
+1. Go to View Menu → Click Dependencies  
+2. Check if all queries are correctly linked  
+
+## Here are the screenshots showcasing the table transformation process
+### Here's the screenshot of my output before I started data cleaning (see screenshot)
+![Image](https://github.com/user-attachments/assets/38ea140c-bb3b-44c1-b2cb-a25601ea8467)
+## Here's the screenshot of the Advanced Editor
+![Image](https://github.com/user-attachments/assets/363e27b5-76d2-4561-8907-6718216a3d45)
+### Here's the screenshot of my output after I started data cleaning (see screenshot)
+![Image](https://github.com/user-attachments/assets/dd368a40-ad15-4159-a5dd-3ab372efe33d)
+
+
+### Here's the screenshot of Sal By Role type (see screenshot)
+![Image](https://github.com/user-attachments/assets/4a2b5298-8a0b-4440-8e83-de4f0810d89d)
+### Here's the screenshot of Sal By Role Size (see screenshot)
+![Image](https://github.com/user-attachments/assets/f193001b-6da3-46fa-aa36-877f20cefc81)
+### Here's the screenshot of Sal By State (see screenshot)
+![Image](https://github.com/user-attachments/assets/d6e69440-32be-4cbf-af2c-5d8a99dfdcbc)
+### Here's the screenshot of States (see screenshot)
+![Image](https://github.com/user-attachments/assets/8c402690-1e7a-4253-899d-e0f74b6e302a)
+### Here's the screenshot of the Query Dependencies
+![Image](https://github.com/user-attachments/assets/e964092b-b535-4357-86aa-13795196b172)
