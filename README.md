@@ -15,3 +15,5 @@ Elementary: Manibaug Libutad Elementary School
 Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm)
 
 Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](Midterm%20Task%202)
+
+Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD using POWER QUERY](Midterm%20Task%203)
