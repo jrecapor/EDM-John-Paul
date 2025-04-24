@@ -27,7 +27,7 @@
 ![screenshot](Images/TASK%201.PNG)
 ### Task 2:
 #### Query:
-![screenshot](Table%202.PNG)
+![screenshot](Images/Table%202.PNG)
 #### Table:
 ![screenshot](Images/task%202.PNG)
 ### Task 3:
