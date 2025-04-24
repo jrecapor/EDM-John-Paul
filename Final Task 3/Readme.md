@@ -29,11 +29,11 @@ Product 10: "Speakers", 9.99
 ![screenshot](Images/Task2.png)
 ### Task 3:
 #### Query:
-![screenshot](Images/Task_3.png)
+![screenshot](Images/Task3.png)
 #### Table:
-![screenshot](Images/Task_3_tbl.png)
+![screenshot](Images/Task3_tbl.png)
 ## Task 4:
 #### Query:
-![screenshot](Images/Task_4.png)
+![screenshot](Images/Task4.png)
 #### Table
-![screenshot](Images/Task_4_tbl.png)
+![screenshot](Images/Task4_tbl.png)
