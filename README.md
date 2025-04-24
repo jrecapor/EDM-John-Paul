@@ -17,3 +17,9 @@ Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm)
 Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](Midterm%20Task%202)
 
 Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD using POWER QUERY](Midterm%20Task%203)
+
+Final Lab Task 1: [Multi Level Company Using MySql](Final%20Task%201)
+
+Final Lab Task 2: [Transform ER into Relational tables Using MySql](Final%20Task%202)
+
+Final Lab Task 3: [Table Manipulation Using MySql](Final%20Task%203)
