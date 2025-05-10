@@ -31,26 +31,26 @@
 ## Query Statements & Table Structure:
 ### Task 1:
 #### Query:
-![screenshot](Images/task1.PNG)
+![screenshot](Images/TASK1.PNG)
 #### Table:
-![screenshot](Images/task1_tbl.PNG)
+![screenshot](Images/TASK1TABLE.PNG)
 ### Task 2:
 #### Query:
-![screenshot](Images/task2.PNG)
+![screenshot](Images/TASK2.PNG)
 #### Table:
-![screenshot](Images/task2_tbl.PNG)
+![screenshot](Images/TASK2TABLE.PNG)
 ### Task 3:
 #### Query:
-![screenshot](Images/task3.PNG)
+![screenshot](Images/TASK3.PNG)
 #### Table:
-![screenshot](Images/task3_tbl.PNG)
+![screenshot](Images/TASK3TABLE.PNG)
 ### Task 4:
 #### Query:
-![screenshot](Images/task4.PNG)
+![screenshot](Images/TASK4.PNG)
 #### Table:
-![screenshot](Images/task4_tbl.PNG)
+![screenshot](Images/TASK4TABLE.PNG)
 ### Task 5:
 #### Query:
-![screenshot](Images/task5.PNG)
-
-
+![screenshot](Images/TASK5.PNG)
+#### Table:
+![screenshot](Images/TASK5TABLE.PNG)
