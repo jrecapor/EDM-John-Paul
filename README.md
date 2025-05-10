@@ -23,7 +23,11 @@ Elementary: Manibaug Libutad Elementary School
 
 ### Finals
 - Finals Lab Task 1: [Multi Level Company Using MYSQL](Final%20Task%201)
+  
 - Finals Lab Task 2: [Transform ER into Relational tables Using MYSQL](Final%20Task%202)
+  
 - Finals Lab Task 3: [Table Manipulation Using MYSQL](Final%20Task%203)
+  
 - Finals Lab Task 3-1: [Using MYSQL CLAUSE](Final%20Task%203-1)
+  
 - Finals Lab Task 5: [Using MYSQL CLAUSE](
