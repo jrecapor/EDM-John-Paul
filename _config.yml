@@ -1,36 +1,6 @@
 Title: WELCOME TO JOHN PAUL A RECAPOR PORTHFOLIO IN EDM
 show_download: true
-theme:
-  colors:
-    primary: "#1e90ff"      # Dodger Blue
-    secondary: "#ff6347"    # Tomato
-    background: "#f8f9fa"   # Light gray background
-    surface: "#ffffff"      # White surface for cards, modals
-    text_primary: "#212529" # Dark text for readability
-    text_secondary: "#6c757d" # Secondary text color gray
-    border: "#dee2e6"       # Light border color
-    success: "#28a745"      # Success color green
-    warning: "#ffc107"      # Warning color amber
-    danger: "#dc3545"       # Danger color red
-
-  fonts:
-    primary: "Segoe UI, Tahoma, Geneva, Verdana, sans-serif"
-    code: "SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace"
-
-  buttons:
-    border_radius: "4px"
-    padding: "10px 20px"
-    font_weight: "600"
-    primary_background: "#1e90ff"
-    primary_text_color: "#ffffff"
-    secondary_background: "#ff6347"
-    secondary_text_color: "#ffffff"
-
-  spacing:
-    small: "8px"
-    medium: "16px"
-    large: "24px"
-
-  shadows:
-    light: "0 1px 3px rgba(0,0,0,0.1)"
-    medium: "0 4px 6px rgba(0,0,0,0.1)"
+#theme: jekyll-theme-merlot
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins
