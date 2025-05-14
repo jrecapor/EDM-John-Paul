@@ -1,10 +1,10 @@
-![Recapor john paul](https://github.com/user-attachments/assets/2692cfc6-3c98-416d-a7e2-000c7f85c838)
-
 # EDM-John-Paul
 
 This Portfolio Contain all of my documents in EDM
 
 ## About Me
+## ![jp recapor](https://github.com/user-attachments/assets/e236c0d5-5287-4705-a144-85772d30b888)
+
 I am John Paul Recapor  currently studying in City College Of Angeles with a course of Bachelor of Science in Information System. And also currently working in Jollibee Cutcut Frienship :) 
 
 ## Education
