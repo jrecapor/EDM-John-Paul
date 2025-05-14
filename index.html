@@ -1,1 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>My Unique Portfolio</title>
+    <style>
+        /* General body and background setup */
+        body {
+            background-color: #121212;
+            background-image: url('https://example.com/your-background-image.jpg'); /* Replace with a valid image URL */
+            background-size: cover;
+            color: #e0e0e0;
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+            background-position: center;
+            background-attachment: fixed;
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+        }
 
+        /* Header style */
+        header {
+            background-color: rgba(30, 30, 30, 0.8);
+            padding: 40px 0;
+            text-align: center;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+            animation: fadeIn 1.5s ease-in-out;
+        }
+
+        h1 {
+            font-size: 3.5em;
+            color: #00bcd4; /* Cyan color */
+            text-shadow: 0 0 20px rgba(0, 188, 212, 0.7);
+            margin: 0;
+            animation: pulse 1.5s infinite alternate;
+        }
+
+        @keyframes pulse {
+            0% {
+                transform: scale(1);
+            }
+            100% {
+                transform: scale(1.05);
+            }
+        }
+
+        @keyframes fadeIn {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+
+        /* Navigation styling */
+        nav {
+            background-color: rgba(30, 30, 30, 0.9);
+            padding: 15px;
+            text-align: center;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+        }
+
+        nav a {
+            color: #00bcd4;
+            text-decoration: none;
+            font-size: 1.1em;
+            padding: 10px 15px;
+            margin: 0 15px;
+            transition: background-color 0.3s ease;
+            border-radius: 5px;
+        }
+
+        nav a:hover {
+            background-color: rgba(0, 188, 212, 0.5);
+            color: white;
+            box-shadow: 0 0 15px rgba(0, 188, 212, 0.7);
+        }
+
+        /* Section styling */
+        .content {
+            padding: 50px;
+            z-index: 1;
+        }
+
+        .hero {
+            text-align: center;
+            padding: 100px 0;
+            animation: slideIn 1s ease-in-out;
+        }
+
+        @keyframes slideIn {
+            0% {
+                transform: translateY(-50px);
+                opacity: 0;
+            }
+            100% {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
+        .hero img {
+            width: 250px;
+            border: 5px solid rgba(0, 188, 212, 1);
+            box-shadow: 0 0 20px rgba(0, 188, 212, 0.5);
+            transition: transform 0.3s ease;
+            border-radius: 15px;
+        }
+
+        .hero img:hover {
+            transform: scale(1.1);
+            box-shadow: 0 0 30px rgba(0, 188, 212, 0.7);
+        }
+
+        /* Section headers */
+        .section h2 {
+            font-size: 2.5em;
+            color: #00bcd4;
+            text-align: center;
+            text-shadow: 0 0 15px rgba(0, 188, 212, 0.5);
+            animation: fadeIn 1.5s ease-in-out;
+            margin-bottom: 20px;
+        }
+
+        .section p, .section ul {
+            font-size: 1.1em;
+            text-align: center;
+        }
+
+        /* Box around sections for contrast */
+        .box {
+            background-color: rgba(30, 30, 30, 0.8);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 
