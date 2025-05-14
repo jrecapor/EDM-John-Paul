@@ -8,10 +8,10 @@
     <style>
         /* General body and background setup */
         body {
-            background-color: black;
-            background-image: url('![jp recapor](https://github.com/user-attachments/assets/e236c0d5-5287-4705-a144-85772d30b888)');
+            background-color: #121212;
+            background-image: url('https://github.com/user-attachments/assets/e236c0d5-5287-4705-a144-85772d30b888'); /* Replace with a valid image URL */
             background-size: cover;
-            color: white;
+            color: #e0e0e0;
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 0;
@@ -136,4 +136,124 @@
             background-color: rgba(30, 30, 30, 0.8);
             padding: 30px;
             border-radius: 15px;
-            box-shadow: 0 
+            box-shadow: 0  0 25px rgba(0, 188, 212, 0.5);
+            margin-bottom: 40px;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .box:hover {
+            transform: scale(1.05);
+        }
+
+        /* Project links inside boxes */
+        .box a {
+            display: block;
+            color: #e0e0e0;
+            background-color: rgba(0, 188, 212, 0.7);
+            text-decoration: none;
+            font-size: 1.2em;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 10px;
+            text-align: center;
+            transition: all 0.3s ease;
+            box-shadow: 0 0 10px rgba(0, 188, 212, 0.5);
+        }
+
+        .box a:hover {
+            background-color: rgba(0, 188, 212, 1);
+            color: #121212;
+            box-shadow: 0 0 20px rgba(0, 188, 212, 0.7);
+        }
+
+        /* Footer styling */
+        footer {
+            background-color: rgba(30, 30, 30, 0.9);
+            color: #00bcd4;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+        }
+
+        footer p {
+            font-size: 1.1em;
+            text-shadow: 0 0 8px rgba(0, 188, 212, 0.5);
+        }
+
+        /* Add smooth scrolling */
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>EDM Tasks Portfolio</h1>
+</header>
+
+<nav>
+    <a href="#home">Home</a>
+    <a href="#about">About Me</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<div class="content">
+    <!-- Hero Section -->
+    <section class="hero" id="home">
+        <div class="box">
+            <h2>Welcome to My EDM Tasks Portfolio🌟</h2>
+            <p>This Portfolio Contain all of my documents in EDM.</p>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="section" id="about">
+        <div class="box">
+            <h2>About Me 🙋‍♂️</h2>
+            <p>I am John Paul Recapor  currently studying in City College Of Angeles with a course of Bachelor of Science in Information System. And also currently working in Jollibee Cutcut Frienship :) 
+.</p>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section class="section" id="midterms">
+        <div class="box">
+            <h2>My Projects in MidTerms 🛠️</h2>
+            <a href="https://github.com/jrecapor/EDM-John-Paul/tree/main/Midterm" target="_blank">Midterm Lab Task 1: Data Cleaning and Preparation using EXCEL</a>
+            <a href="https://github.com/jrecapor/EDM-John-Paul/tree/main/Midterm%20Task%202" target="_blank">Midterm Lab Task 2: Data Cleaning and Preparation using Power Query</a>
+            <a href="https://github.com/jrecapor/EDM-John-Paul/tree/main/Midterm%20Task%203" target="_blank">Midterm Lab Task 3: Creating PIVOT TABLE and DASHBOARD</a>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section class="section" id="finalss">
+        <div class="box">
+            <h2>My Projects in Finals 🛠️</h2>
+            <a href="https://github.com/jrecapor/EDM-John-Paul/tree/main/Final%20Task%201" target="_blank">Finals Lab Task 1:: Data Cleaning and Preparation using EXCEL</a>
+            <a href="https://github.com/jrecapor/EDM-John-Paul/tree/main/Final%20Task%202" target="_blank">Finals Lab Task 2: Data Cleaning and Preparation using Power Query</a>
+            <a href="https://github.com/jrecapor/EDM-John-Paul/tree/main/Final%20Task%203" target="_blank">Finals Lab Task 3: Creating PIVOT TABLE and DASHBOARD</a>
+             <a href="https://github.com/jrecapor/EDM-John-Paul/tree/main/Final%20Task%203-1" target="_blank">Finals Lab Task 3-1: Creating PIVOT TABLE and DASHBOARD</a>
+             <a href="https://github.com/jrecapor/EDM-John-Paul/tree/main/Final%20Task%205" target="_blank">Finals Lab Task 5: Creating PIVOT TABLE and DASHBOARD</a>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="section" id="contact">
+        <div class="box">
+            <h2>Contact Me 📞</h2>
+            <p>If you'd like to get in touch, feel free to reach out at  
+            <a href="jrecapor24-0115@cca.edu.ph">jrecapor24-0115@cca.edu.ph</a></p>
+        </div>
+    </section>
+</div>
+
+<!-- Footer -->
+<footer>
+    <p>© 2025 John Paul A. Recapor. All rights reserved.</p>
+    <a href="https://github.com/jrecapor/EDM-John-Paul" target="_blank" style="color: #00bcd4;">View This GitHub</a>
+</footer>
+
+</body>
+</html>
