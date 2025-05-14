@@ -1,3 +1,5 @@
+![Recapor john paul](https://github.com/user-attachments/assets/2692cfc6-3c98-416d-a7e2-000c7f85c838)
+
 # EDM-John-Paul
 
 This Portfolio Contain all of my documents in EDM
@@ -30,4 +32,4 @@ Elementary: Manibaug Libutad Elementary School
   
 - Finals Lab Task 3-1: [Using MYSQL CLAUSE](Final%20Task%203-1)
   
-- Finals Lab Task 5: [Using MYSQL CLAUSE](
+- Finals Lab Task 5: [Using MYSQL CLAUSE](Final%20Task%205)
