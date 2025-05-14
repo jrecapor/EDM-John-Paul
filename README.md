@@ -3,7 +3,8 @@
 This Portfolio Contain all of my documents in EDM
 
 ## About Me
-## ![jp recapor](https://github.com/user-attachments/assets/e236c0d5-5287-4705-a144-85772d30b888)
+## ![rsdadsa](https://github.com/user-attachments/assets/dff3da4f-90cd-4ad0-bd46-f4876ae9b835)
+
 
 I am John Paul Recapor  currently studying in City College Of Angeles with a course of Bachelor of Science in Information System. And also currently working in Jollibee Cutcut Frienship :) 
 
