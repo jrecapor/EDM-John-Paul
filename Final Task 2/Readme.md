@@ -15,18 +15,19 @@
 ## Query Statements & Table Structure:
 ### Student:
 #### Query:
-![screenshot](Images/Student.png)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%202/Images/Student.png)
 #### Table:
-![screenshot](Images/Student_tbl.png)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%202/Images/Student_tbl.png)
 ### Assignment:
 #### Query:
-![screenshot](Images/Assignment.png)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%202/Images/Assignment.png)
 #### Table:
-![screenshot](Images/Assignment_tbl.png)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%202/Images/Assignment_tbl.png)
 ### Submission:
 #### Query:
-![screenshot](Images/Submission.png)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%202/Images/Submission.png)
 #### Table:
-![screenshot](Images/Submission_tbl.png)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%202/Images/Submission_tbl.png)
 ## ER Diagram:
-![screenshot](Images/ErDiagram.jpeg)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%202/Images/ErDiagram.jpeg)
+
