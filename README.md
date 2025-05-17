@@ -33,4 +33,6 @@ Elementary: Manibaug Libutad Elementary School
   
 - Finals Lab Task 3-1: [Using MYSQL CLAUSE](Final%20Task%203-1)
   
-- Finals Lab Task 5: [Using MYSQL CLAUSE](Final%20Task%205)
+- Finals Lab Task 5: [ Views, Stored Procedures and Functions Using MYSQL CLAUSE](Final%20Task%205)
+
+- Finals Lab Task 6: [MOngoDBCRUD](Final%20Lab%20Task%206)
