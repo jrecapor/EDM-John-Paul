@@ -1,4 +1,3 @@
-
 # Final Lab Task 1 - MySQL Basics
 
 ## Task 1: Create a table named employee with the following fields:
