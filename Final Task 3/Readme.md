@@ -21,19 +21,19 @@ Product 10: "Speakers", 9.99
 ## Query Statements & Table Structure:
 ### Task 1:
 #### Query:
-![screenshot](Images/Product.png)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%203/Images/Product.png)
 #### Table:
-![screenshot](Images/Product_tbl.png)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%203/Images/Product_tbl.png)
 ### Task 2:
 #### Query:
-![screenshot](Images/Task2.png)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%203/Images/Task2.png)
 ### Task 3:
 #### Query:
-![screenshot](Images/Task3.png)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%203/Images/Task3.png)
 #### Table:
-![screenshot](Images/Task3_tbl.png)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%203/Images/Task3_tbl.png)
 ## Task 4:
 #### Query:
-![screenshot](Images/Task4.png)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%203/Images/Task4.png)
 #### Table
-![screenshot](Images/Task4_tbl.png)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%203/Images/Task4_tbl.png)
