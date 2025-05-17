@@ -179,77 +179,77 @@ db.movies.remove({_id:ObjectId(&quot;5c9f9936e5c2dfe9b3729c01&quot;)})
 ![screenshot](Images/movies.png)
 ### title : Fight Club
 
-![screenshot](Images/Student.png)
+![screenshot](Images/chuck.png)
 ### title : Pulp Fiction
 
-![screenshot](Images/Student.png)
+![screenshot](Images/tarantino.png)
 ### title : Inglorious Basterds
 
-![screenshot](Images/Student.png)
+![screenshot](Images/basterds.png)
 ### title : The Hobbit: An Unexpected Journey
 
-![screenshot](Images/Student.png)
+![screenshot](Images/unjourney.png)
 ### title : The Hobbit: The Desolation of Smaug
 
-![screenshot](Images/Student.png)
+![screenshot](Images/smaug.png)
 ### title : The Hobbit: The Battle of the Five Armies
 
-![screenshot](Images/Student.png)
+![screenshot](Images/thebattle.png)
 ### title : Pee Wee Herman&#39;s Big Adventure
 
-![screenshot](Images/Student.png)
+![screenshot](Images/bigadventure.png)
 ### title : Avatar
 
-![screenshot](Images/Student.png)
+![screenshot](Images/avatar.png)
 ## Query / Find Documents
 ### 1. get all documents
 
-![screenshot](Images/Student.png)
+![screenshot](Images/alldoc.png)
 ### 2. get all documents with `writer` set to &quot;Quentin Tarantino&quot;
 
-![screenshot](Images/Student.png)
+![screenshot](Images/writtertarantino.png)
  ### 3. get all documents where `actors` include &quot;Brad Pitt&quot;
 
-![screenshot](Images/Student.png)
+![screenshot](Images/bradpitt.png)
  ### 4. get all documents with `franchise` set to &quot;The Hobbit&quot;
 
-![screenshot](Images/Student.png)
+![screenshot](Images/thehobbit.png)
  ### 5. get all movies released in the 90s
 
-![screenshot](Images/Student.png)
+![screenshot](Images/90's.png)
  ### 6. get all movies released before the year 2000 or after 2010
 
-![screenshot](Images/Student.png)
+![screenshot](Images/2000.png)
 ## Update Documents
 ### 1. add a synopsis to &quot;The Hobbit: An Unexpected Journey&quot; : &quot;A reluctant hobbit, Bilbo Baggins,
 sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home
 and the gold within it - from the dragon Smaug.&quot;
 
-![screenshot](Images/Student.png)
+![screenshot](Images/updateunexjourney.png)
 ### 2. add a synopsis to &quot;The Hobbit: The Desolation of Smaug&quot; : &quot;The dwarves, along with Bilbo
 Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from
 Smaug. Bilbo Baggins is in possession of a mysterious and magical ring.&quot;
 
-![screenshot](Images/Student.png)
+![screenshot](Images/updatesmaug.png)
 ### 3. add an actor named &quot;Samuel L. Jackson&quot; to the movie &quot;Pulp Fiction&quot;
 
-![screenshot](Images/Student.png)
+![screenshot](Images/updatepulp.png)
 ## Text Search
 ### 1. find all movies that have a synopsis that contains the word &quot;Bilbo&quot;
 
-![screenshot](Images/Student.png)
+![screenshot](Images/findbilbo.png)
 ###  2. find all movies that have a synopsis that contains the word &quot;Gandalf&quot;
 
-![screenshot](Images/Student.png)
+![screenshot](Images/findgandalf.png)
 ###  3. find all movies that have a synopsis that contains the word &quot;Bilbo&quot; and not the word &quot;Gandalf&quot;
 
-![screenshot](Images/Student.png)
+![screenshot](Images/findbilbonotgandalf.png)
  ### 4. find all movies that have a synopsis that contains the word &quot;dwarves&quot; or &quot;hobbit&quot;
 
-![screenshot](Images/Student.png)
+![screenshot](Images/dwarves.png)
 ###  5. find all movies that have a synopsis that contains the word &quot;gold&quot; and &quot;dragon&quot;
 
-![screenshot](Images/Student.png)
+![screenshot](Images/dragon.png)
   ## Delete Documents
 ### 1. delete the movie &quot;Pee Wee Herman&#39;s Big Adventure&quot;
 
