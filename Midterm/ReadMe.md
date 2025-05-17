@@ -18,3 +18,4 @@ Mapped the Normalized tables as a Physical Data Model
 ## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
 ![Clean Data Recapor](https://github.com/user-attachments/assets/cf6bb70a-72d7-4258-b584-d82cce853d46)
 ## Here's the Physical Data Model
+![Data Model](https://github.com/user-attachments/assets/105f7e3d-6e12-4af5-b09f-66e0428a5105)
