@@ -14,26 +14,26 @@
 ## Query Statements & Table Structure:
 ### Task 1:
 #### Query:
-![screenshot](Images/task1.PNG)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%203-1/Images/task1.PNG)
 #### Table:
-![screenshot](Images/task1_tbl.PNG)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%203-1/Images/task1_tbl.PNG)
 ### Task 2:
 #### Query:
-![screenshot](Images/task2.PNG)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%203-1/Images/task2.PNG)
 #### Table:
-![screenshot](Images/task2_tbl.PNG)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%203-1/Images/task2_tbl.PNG)
 ### Task 3:
 #### Query:
-![screenshot](Images/task3.PNG)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%203-1/Images/task3.PNG)
 #### Table:
-![screenshot](Images/task3_tbl.PNG)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%203-1/Images/task3_tbl.PNG)
 ### Task 4:
 #### Query:
-![screenshot](Images/task4.PNG)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%203-1/Images/task4.PNG)
 #### Table:
-![screenshot](Images/task4_tbl.PNG)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%203-1/Images/task4_tbl.PNG)
 ### Task 5:
 #### Query:
-![screenshot](Images/task5.PNG)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%203-1/Images/task5.PNG)
 #### Table:
-![screenshot](Images/task5_tbl.PNG)
+![screenshot](https://github.com/jrecapor/EDM-John-Paul/blob/main/Final%20Task%203-1/Images/task5_tbl.PNG)
