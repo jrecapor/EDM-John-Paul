@@ -21,28 +21,28 @@
 ## Query Statements & Table Structure:
 ### Task 1:
 #### Query:
-![screenshot](Images/TAble%201.PNG)
+![screenshot](Images/TASK1.PNG)
 #### Table:
-![screenshot](Images/TASK%201.PNG)
+![screenshot](Images/TAble1.PNG)
 ### Task 2:
 #### Query:
-![screenshot](Images/Table%202.PNG)
+![screenshot](Images/task2.PNG)
 #### Table:
-![screenshot](Images/task%202.PNG)
+![screenshot](Images/Table2.PNG)
 ### Task 3:
 #### Query:
-![screenshot](Images/TAble%203.PNG)
+![screenshot](Images/task3.PNG)
 #### Table:
-![screenshot](Images/task%203.PNG)
+![screenshot](Images/TAble3.PNG)
 ### Task 4:
 #### Query:
-![screenshot](Images/TAble%204.PNG)
+![screenshot](Images/task4.PNG)
 #### Table:
-![screenshot](Images/task%204.PNG)
+![screenshot](Images/TAble4.PNG)
 ### Task 5:
 #### Query:
-![screenshot](Images/table%205.PNG)
+![screenshot](Images/task5.PNG)
 #### Table:
-![screenshot](Images/task%205.PNG)
+![screenshot](Images/table5.PNG)
 ## ER Diagram:
-![screenshot](Images/erdiagram.PNG)
+![screenshot](Images/er.PNG)
